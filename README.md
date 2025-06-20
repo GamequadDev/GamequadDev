@@ -1,5 +1,5 @@
 ## Hi 👋
----
+
 👋 Hi there! I'm Mateusz Woźniak also known as **Gamequad**, a passionate game developer specializing in Unreal Engine and C++. I have worked on various projects ranging from VR games to indie PC titles.
 
 ## Featured Projects
@@ -12,15 +12,11 @@ More about the project
 A unique action game where players control bullets in a fast-paced, skill-based environment. Developed in Unreal Engine 4 and available on Steam.
 Steam page
 
----
-
 ## 🏆 Game Jams (https://gamequad.itch.io/)
 Participated in over 10 game jams as a developer.
 Achievements:
 3rd place at Baked Games Jam 2024 with Prison Spotlight (Unreal Engine)
 Second place at 14C game jam 2025 (Unity)
-
----
 
 ## Code sample
 
