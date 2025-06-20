@@ -6,11 +6,9 @@
 
 🎮 [World In Puzzles (VR/Meta Quest)](https://www.meta.com/en-gb/experiences/world-in-puzzles/6249683598379109/)
 A VR puzzle game for Meta Quest platforms, built with Unreal Engine 5. This immersive experience challenges players to solve puzzles in a dynamic virtual environment.
-More about the project
 
 🎯 [Bullet Shot (PC/Steam)](https://store.steampowered.com/app/1488440/Bullet_Shot/)
 A unique action game where players control bullets in a fast-paced, skill-based environment. Developed in Unreal Engine 4 and available on Steam.
-Steam page
 
 ## 🏆 Game Jams (https://gamequad.itch.io/)
 Participated in over 10 game jams as a developer.
