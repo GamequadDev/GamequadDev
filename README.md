@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 👋 Hi there! I'm Mateusz Woźniak also known as **Gamequad**, a passionate game developer specializing in Unreal Engine and C++. My journey into game development started with a love for creating unique and immersive experiences, and over the years, I have worked on various projects ranging from VR games to indie PC titles.
 
 -->
