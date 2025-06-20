@@ -17,7 +17,7 @@ Participated in over 10 game jams as a developer.
 ### Achievements:
 Third place at Baked Games Jam 2024 with Prison Spotlight (Unreal Engine) (https://gamequad.itch.io/prison-spotlights)
 
-Second place at 14C game jam 202 with F.U.S.I.O.N (Unity) (https://kamilr.itch.io/freski-upionych-szybw-i-ocalone-narracje)
+Second place at 14C game jam 2025 with F.U.S.I.O.N (Unity) (https://kamilr.itch.io/freski-upionych-szybw-i-ocalone-narracje)
 
 ## Code Examples
 
