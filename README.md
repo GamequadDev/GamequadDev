@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi 👋
 ---
-👋 Hi there! I'm Mateusz Woźniak also known as **Gamequad**, a passionate game developer specializing in Unreal Engine and C++. My journey into game development started with a love for creating unique and immersive experiences, and over the years, I have worked on various projects ranging from VR games to indie PC titles.
+👋 Hi there! I'm Mateusz Woźniak also known as **Gamequad**, a passionate game developer specializing in Unreal Engine and C++. I have worked on various projects ranging from VR games to indie PC titles.
 
-##Featured Projects
+## Featured Projects
 
 🎮 [World In Puzzles (VR/Meta Quest)](https://www.meta.com/en-gb/experiences/world-in-puzzles/6249683598379109/)
 A VR puzzle game for Meta Quest platforms, built with Unreal Engine 5. This immersive experience challenges players to solve puzzles in a dynamic virtual environment.
@@ -14,7 +14,7 @@ Steam page
 
 ---
 
-##🏆 Game Jams (https://gamequad.itch.io/)
+## 🏆 Game Jams (https://gamequad.itch.io/)
 Participated in over 10 game jams as a developer.
 Achievements:
 3rd place at Baked Games Jam 2024 with Prison Spotlight (Unreal Engine)
