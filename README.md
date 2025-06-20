@@ -20,3 +20,13 @@ Achievements:
 3rd place at Baked Games Jam 2024 with Prison Spotlight (Unreal Engine)
 Second place at 14C game jam 2025 (Unity)
 
+---
+
+## Code sample
+
+🔧 [Simple Racing Plugin for Unreal Engine 5]
+A plugin for creating simple racing games with advanced vehicle mechanics, including features like suspension physics, vehicle damage, and camera switching.
+
+🌐 [World in Puzzles Plugin Code Samples]
+Sharing code samples from my VR project, World in Puzzles.
+
