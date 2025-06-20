@@ -19,7 +19,7 @@ Third place at Baked Games Jam 2024 with Prison Spotlight (Unreal Engine) (https
 
 Second place at 14C game jam 202 with F.U.S.I.O.N (Unity) (https://kamilr.itch.io/freski-upionych-szybw-i-ocalone-narracje)
 
-## Code sample
+## Code Examples
 
 🔧 [Simple Racing Plugin for Unreal Engine 5]
 A plugin for creating simple racing games with advanced vehicle mechanics, including features like suspension physics, vehicle damage, and camera switching.
