@@ -14,8 +14,9 @@ Steam page
 
 ## 🏆 Game Jams (https://gamequad.itch.io/)
 Participated in over 10 game jams as a developer.
-Achievements:
-3rd place at Baked Games Jam 2024 with Prison Spotlight (Unreal Engine)
+### Achievements:
+Third place at Baked Games Jam 2024 with Prison Spotlight (Unreal Engine)
+
 Second place at 14C game jam 2025 (Unity)
 
 ## Code sample
