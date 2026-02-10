@@ -1,8 +1,11 @@
 ## Hi 👋
 
-👋 Hi there! I'm Mateusz Woźniak also known as **Gamequad**, a passionate game developer specializing in Unreal Engine and C++. I have worked on various projects ranging from VR games to indie PC titles.
+👋 Hi there! I'm Mateusz Woźniak also known as **Gamequad**, a passionate web developer/game developer. I have worked on various projects ranging from VR games to indie PC titles.
 
 ## Featured Projects
+
+[EmojiMap (Web)(https://github.com/GamequadDev/EmojiMap)]
+EmojiMap is an interactive mapping platform designed to simplify location sharing
 
 🎮 [World In Puzzles (VR/Meta Quest)](https://www.meta.com/en-gb/experiences/world-in-puzzles/6249683598379109/)
 A VR puzzle game for Meta Quest platforms, built with Unreal Engine 5. This immersive experience challenges players to solve puzzles in a dynamic virtual environment.
